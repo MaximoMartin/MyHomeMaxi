@@ -1,5 +1,5 @@
-# 📱 MyHomeMaxi Maximo Martin Lanfranchi.
-
+# 📱 MyHomeMaxi
+Autor: Maximo Martin Lanfranchi.
 **MyHomeMaxi** es una aplicación Android construida con **Kotlin**, **Jetpack Compose** y **Room**, diseñada para facilitar el envío rápido de mensajes SMS a contactos personalizados.
 
 ---
